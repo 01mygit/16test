@@ -6,6 +6,8 @@ public class test {
 		
 		System.out.print("-------------测试03-------");
 		System.out.print("-------------测试04-------");
+		System.out.print("-------------测试04-------");
+		System.out.print("-------------测试04-------");
 	}
 
 }
